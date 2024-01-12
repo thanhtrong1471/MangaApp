@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86986979319",
+    "firebase_url": "https://mangaappreader-2f644-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mangaappreader-2f644",
+    "storage_bucket": "mangaappreader-2f644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86986979319:android:58dc6c3ab5e5fc8204a0f2",
+        "android_client_info": {
+          "package_name": "com.letrong.mangareaderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86986979319-lvmuok482gsug7d0ldmcmcpo7e4hgmlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.letrong.mangareaderapp",
+            "certificate_hash": "1763e4f860614d544e57e353105f3d35791a7633"
+          }
+        },
+        {
+          "client_id": "86986979319-ii88js2vhqivb2jekg0pvi45dn81moje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0X5rB7NWzCbt1A-JI1_XX7ZdkBRBAFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86986979319-ii88js2vhqivb2jekg0pvi45dn81moje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
